@@ -18,7 +18,7 @@ To run this project locally, follow these steps:
    ```
 2. Navigate to the project folder:
    ```bash
-   cd E-Commerce-React-JS-Project
+   cd E-Commerce-React-JS-Project-main
    ```
 3. Install the dependencies:
    ```bash
@@ -26,5 +26,5 @@ To run this project locally, follow these steps:
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
