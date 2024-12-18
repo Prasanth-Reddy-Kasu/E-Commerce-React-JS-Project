@@ -16,15 +16,11 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Prasanth-Reddy-Kasu/E-Commerce-React-JS-Project.git
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd E-Commerce-React-JS-Project-main
-   ```
-3. Install the dependencies:
+2. Install the dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
